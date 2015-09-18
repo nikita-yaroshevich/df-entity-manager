@@ -1,0 +1,29 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "nikita.yaroshevich",
+        "email": "nikita.yaroshevich@gmail.com"
+      },
+      "libraryName": {
+        "original": "df-validator",
+        "camelized": "dfValidator",
+        "dasherized": "df-validator",
+        "slugified": "df-validator",
+        "parts": [
+          "df",
+          "validator"
+        ]
+      },
+      "includeModuleDirectives": false,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/df-validator",
+      "libraryUnitTestDirectory": "test/unit/df-validator",
+      "libraryUnitE2eDirectory": "test/e2e/df-validator"
+    }
+  }
+}
