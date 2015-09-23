@@ -13,7 +13,7 @@
  *
  *  This Bundle didn't cover some features such as UnityOfFork, but it could be developed and installed as plugin.
  */
-angular.module('df.entityManagerBundle', ['ng', 'df.validatorBundle'])
+angular.module('df.entityManagerBundle', ['ng', 'df.validator'])
   .config(
   function () {
   })
